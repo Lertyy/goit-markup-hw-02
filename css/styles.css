@@ -46,7 +46,7 @@ color: #434455;
 .contacts-link:focus{
 color: #404bbf;
 }
-.container1{
+.container{
 background: #2e2f42;
 }
 .main-title{
@@ -59,11 +59,11 @@ text-align: center;
 }
 .main-title-button{
 color: #fff;
-border-radius: 4px;
-padding: 16px 32px;
-width: 169px;
-height: 56px;
-box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+cursor: pointer;
 background-color: #4d5ae5;
 }
 .main-title-button:hover,
@@ -84,15 +84,16 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 }
-.container-3{
+.container-third{
 background-color: #f4f4fd;
 }
 .second-title{
 font-weight: 700;
 font-size: 36px;
-line-height: 1.1;
+line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
+text-transform: capitalize;
 color: #2e2f42;
 }
 .page-footer{
