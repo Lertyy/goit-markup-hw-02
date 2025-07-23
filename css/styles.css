@@ -96,6 +96,9 @@ text-align: center;
 text-transform: capitalize;
 color: #2e2f42;
 }
+.info-list{
+    background-color: #FFFFFF;
+}
 .page-footer{
 background-color:  #2e2f42;
 }
